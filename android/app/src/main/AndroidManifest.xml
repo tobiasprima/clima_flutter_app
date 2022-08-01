@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.clima_flutter_app">
+    <uses-permision android:name="android.permission.ACCESS_COARSE_LOCATION"/>
    <application
         android:label="clima_flutter_app"
         android:name="${applicationName}"
