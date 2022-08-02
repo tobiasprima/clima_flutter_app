@@ -1,16 +1,5 @@
-# clima_flutter_app
+# CLIMA WEATHER APP
 
-A new Flutter project.
+A Weather app from Udemy Course The Complete 2021 Flutter Development Bootcamp with Dart with Dr. Angela Yu.
+![image](https://user-images.githubusercontent.com/88434271/182408328-574dea48-a049-42f5-8de5-122b3a3b57d0.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
